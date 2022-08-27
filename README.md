@@ -6,6 +6,7 @@ The goal of this project is to analyze the success and failures of the U.S. Navy
 
 
 ## Resources
-### Dataset: https://www.kaggle.com/datasets/mysarahmadbhat/space-missions
+### Dataset:
+https://www.kaggle.com/datasets/mysarahmadbhat/space-missions
 
 ### Tools/Languages: Jupyter Notebook, Pandas, Python
