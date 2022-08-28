@@ -2,7 +2,7 @@
 An analysis of U.S. space missions.
 
 ## Objective: 
-The goal of this project is to analyze space missions in the United States.  Additionally, there will be several visualizations of the my analysis.
+The goal of this project is to analyze space missions in the United States from 1957 - 2022.  Additionally, there will be several visualizations of the my analysis.
 
 
 ## Resources
