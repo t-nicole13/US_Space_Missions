@@ -10,4 +10,4 @@ The goal of this project is to analyze space missions in the United States from 
 https://www.kaggle.com/datasets/mysarahmadbhat/space-missions
 
 ### Tools/Languages: 
-Jupyter Notebook, Pandas, Python
+Jupyter Notebook 6.4.5, Pandas 1.3.4, Python 3.9, Seaborn 0.11.2
