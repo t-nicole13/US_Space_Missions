@@ -58,7 +58,9 @@ https://colorhunt.co/palette/9a068079018c4c0070160040
 ![Getting Started](Plots/failed_missions_per_company.png) ![Getting Started](Plots/successful_missions_per_company.png)
 
 ### Rockets
-![Getting Started](Plots/mission_vs_rocket.png) ![Getting Started](Plots/active_rockets_company.png) ![Getting Started](Plots/retired_rockets_company.png)
+![Getting Started](Plots/mission_vs_rocket.png) 
+
+![Getting Started](Plots/active_rockets_company.png) ![Getting Started](Plots/retired_rockets_company.png)
 
 
 
