@@ -45,6 +45,21 @@ https://colorhunt.co/palette/9a068079018c4c0070160040
 - The 5 companies with the most active rockets: SpaceX (120), ULA (83), Northrop (67), Blue Origin (21), Astra (7)
 
 ## Visual Analysis
+### Total Missions Per Year
+![Getting Started](Plots/missions_per_year.png)
 
-## Final Thoughts
+### Total Failed vs Successful Missions Per Year
+![Getting Started](Plots/failed_missions_per_year.png) ![Getting Started](Plots/successful_missions_per_year.png)
+
+### Total Missions Per Company
+![Getting Started](Plots/missions_per_company.png)
+
+### Total Failed vs Successful Missions Per Company
+![Getting Started](Plots/failed_missions_per_company.png) ![Getting Started](Plots/successful_missions_per_company.png)
+
+### Rockets
+![Getting Started](Plots/mission_vs_rocket.png) ![Getting Started](Plots/active_rockets_company.png) ![Getting Started](Plots/retired_rockets_company.png)
+
+
+
 
