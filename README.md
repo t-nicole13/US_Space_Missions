@@ -2,7 +2,7 @@
 An analysis of U.S. space missions.
 
 ## Objective: 
-The goal of this project is to analyze space missions in the United States from 1957 - 2022.  Additionally, there will be several visualizations of the my analysis.
+The goal of this project is to analyze space missions in the United States from 1957 - 2022.  Additionally, there will be several visualizations of the analysis.
 
 ## Tasks
 - Extract Data: Pandas
@@ -10,11 +10,15 @@ The goal of this project is to analyze space missions in the United States from 
 - Visualize Data: Seaborn, Matplotlib
 
 ## Resources
+### Tools/Languages: 
+- Jupyter Notebook 6.4.5
+- Visual Studio Code 1.71.0
+- Pandas 1.3.4, Python 3.9
+- Seaborn 0.11.2
+- Matplotlib 3.4.3
+
 ### Dataset:
 https://www.kaggle.com/datasets/mysarahmadbhat/space-missions
-
-### Tools/Languages: 
-Jupyter Notebook 6.4.5, Pandas 1.3.4, Python 3.9, Seaborn 0.11.2, Matplotlib 3.4.3
 
 ### Space Color Palette:
 https://colorhunt.co/palette/9a068079018c4c0070160040
